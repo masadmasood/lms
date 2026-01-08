@@ -1,0 +1,141 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+
+  /* Library Management System Color Palette */
+  --color-primary: #2563eb;        /* Blue - Professional, Trustworthy */
+  --color-primary-foreground: #ffffff;
+  --color-primary-hover: #1d4ed8;
+
+  --color-secondary: #64748b;      /* Slate - Neutral, Professional */
+  --color-secondary-foreground: #ffffff;
+  --color-secondary-hover: #475569;
+
+  --color-accent: #0d9488;         /* Teal - Complementary, Modern */
+  --color-accent-foreground: #ffffff;
+  --color-accent-hover: #0f766e;
+
+  --color-muted: #f1f5f9;          /* Light Slate - Backgrounds */
+  --color-muted-foreground: #64748b; /* Slate - Secondary Text */
+
+  --color-heading: #0f172a;       /* Dark Slate - Headings */
+  --color-body: #1e293b;          /* Slate - Body Text */
+
+  --color-border: #e2e8f0;        /* Light Gray - Borders */
+  --color-ring: #2563eb;         /* Blue - Focus Rings */
+
+  --color-success: #10b981;       /* Green - Success States */
+  --color-error: #ef4444;         /* Red - Error States */
+  --color-warning: #f59e0b;       /* Amber - Warning States */
+}
+
+@layer base {
+  *,
+  *::before,
+  *::after {
+    @apply box-border;
+  }
+
+  html {
+    @apply text-base scroll-smooth antialiased;
+  }
+
+  body {
+    @apply font-poppins bg-white text-gray-800 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-gray-900 font-semibold;
+  }
+}
+
+@layer utilities {
+  .container {
+    @apply mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Color Utilities */
+  .text-primary {
+    color: var(--color-primary);
+  }
+
+  .bg-primary {
+    background-color: var(--color-primary);
+  }
+
+  .text-secondary {
+    color: var(--color-secondary);
+  }
+
+  .bg-secondary {
+    background-color: var(--color-secondary);
+  }
+
+  .text-accent {
+    color: var(--color-accent);
+  }
+
+  .bg-accent {
+    background-color: var(--color-accent);
+  }
+
+  .text-muted {
+    color: var(--color-muted-foreground);
+  }
+
+  .bg-muted {
+    background-color: var(--color-muted);
+  }
+
+  .text-heading {
+    color: var(--color-heading);
+  }
+
+  .text-body {
+    color: var(--color-body);
+  }
+
+  .border-color {
+    border-color: var(--color-border);
+  }
+}
+
+:root {
+  --sidebar: hsl(0 0% 98%);
+  --sidebar-foreground: hsl(240 5.3% 26.1%);
+  --sidebar-primary: hsl(240 5.9% 10%);
+  --sidebar-primary-foreground: hsl(0 0% 98%);
+  --sidebar-accent: hsl(240 4.8% 95.9%);
+  --sidebar-accent-foreground: hsl(240 5.9% 10%);
+  --sidebar-border: hsl(220 13% 91%);
+  --sidebar-ring: hsl(217.2 91.2% 59.8%);
+}
+
+.dark {
+  --sidebar: hsl(240 5.9% 10%);
+  --sidebar-foreground: hsl(240 4.8% 95.9%);
+  --sidebar-primary: hsl(224.3 76.3% 48%);
+  --sidebar-primary-foreground: hsl(0 0% 100%);
+  --sidebar-accent: hsl(240 3.7% 15.9%);
+  --sidebar-accent-foreground: hsl(240 4.8% 95.9%);
+  --sidebar-border: hsl(240 3.7% 15.9%);
+  --sidebar-ring: hsl(217.2 91.2% 59.8%);
+}
+
+@theme inline {
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
