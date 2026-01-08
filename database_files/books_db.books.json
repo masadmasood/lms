@@ -1,0 +1,2042 @@
+[{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfac8"
+  },
+  "bookId": "B001",
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "category": "Technology",
+  "language": [
+    "English"
+  ],
+  "pages": 464,
+  "description": "Clean Code by Robert C. Martin is a foundational book for software developers who aspire to write code that is not only functional but also elegant and maintainable. The book emphasizes the importance of writing code that is easy to read, understand, and modify, which is crucial for long-term project success. Martin presents a series of principles, patterns, and best practices that help developers avoid common pitfalls and produce high-quality software. Through real-world examples and case studies, he demonstrates how poor coding practices can lead to technical debt and increased maintenance costs, while clean code can make teams more productive and projects more sustainable. The book covers topics such as meaningful naming, proper function design, error handling, and unit testing, making it a comprehensive guide for both novice and experienced programmers. Clean Code is widely regarded as a must-read for anyone serious about software craftsmanship and agile development.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfac9"
+  },
+  "bookId": "B002",
+  "title": "Refactoring",
+  "author": "Martin Fowler",
+  "category": "Technology",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 448,
+  "description": "Refactoring by Martin Fowler is a classic guide that teaches developers how to improve the design of existing code without changing its functionality. Fowler introduces the concept of refactoring as a disciplined technique for restructuring code, making it cleaner, more efficient, and easier to maintain. The book provides a catalog of proven refactoring techniques, each explained with practical examples and step-by-step instructions. Fowler emphasizes the importance of automated testing to ensure that changes do not introduce new bugs. He also discusses the benefits of incremental improvements, showing how small, continuous changes can lead to significant enhancements in code quality. Refactoring is essential reading for developers who want to keep their codebase healthy, reduce technical debt, and adapt to changing requirements. The book is suitable for both object-oriented and functional programming, making it a valuable resource for a wide range of software professionals.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 4,
+  "status": "available",
+  "updatedAt": {
+    "$date": "2026-01-06T08:43:26.236Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaca"
+  },
+  "bookId": "B003",
+  "title": "Design Patterns",
+  "author": "Gang of Four",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "pages": 395,
+  "description": "Design Patterns, authored by the Gang of Four, is a seminal work that introduces the concept of reusable solutions to common software design problems. The book catalogs 23 classic design patterns, each addressing a specific challenge in object-oriented software development. These patterns provide a shared vocabulary for developers, enabling them to communicate complex design ideas more effectively. The authors explain each pattern with detailed examples, UML diagrams, and practical advice on when and how to apply them. Design Patterns has had a profound impact on the way software is architected, promoting principles such as encapsulation, inheritance, and polymorphism. By mastering these patterns, developers can create systems that are more flexible, scalable, and maintainable. The book is an essential reference for anyone involved in software design, from beginners to experienced architects.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfacb"
+  },
+  "bookId": "B004",
+  "title": "The Pragmatic Programmer",
+  "author": "Andrew Hunt",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 352,
+  "description": "The Pragmatic Programmer by Andrew Hunt is a highly influential book that offers practical advice and philosophical insights for software developers. The authors encourage programmers to take ownership of their work, continuously learn new skills, and approach problems with creativity and flexibility. The book covers a wide range of topics, including code organization, debugging, testing, and communication within development teams. Hunt and Thomas advocate for pragmatic solutions, emphasizing the importance of adaptability and critical thinking in a rapidly changing industry. The Pragmatic Programmer is filled with anecdotes, tips, and best practices that help developers avoid common mistakes and become more effective professionals. Its timeless wisdom makes it a favorite among both new and seasoned programmers, and it is often recommended as essential reading for anyone pursuing a career in software development.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 4,
+  "status": "available",
+  "updatedAt": {
+    "$date": "2026-01-04T20:51:47.193Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfacc"
+  },
+  "bookId": "B005",
+  "title": "Code Complete",
+  "author": "Steve McConnell",
+  "category": "Technology",
+  "language": [
+    "English",
+    "German",
+    "Japanese",
+    "Chinese"
+  ],
+  "pages": 960,
+  "description": "Code Complete by Steve McConnell is a comprehensive guide to software construction, focusing on the practical aspects of writing robust, maintainable code. The book covers every stage of the development process, from initial design to final testing, and provides detailed advice on topics such as variable naming, control structures, error handling, and debugging. McConnell draws on decades of experience to present best practices and proven techniques that help developers avoid common pitfalls and produce high-quality software. Code Complete emphasizes the importance of craftsmanship, encouraging programmers to take pride in their work and strive for excellence. The book is filled with real-world examples, case studies, and checklists that make it an invaluable resource for both novice and experienced developers. Its thorough coverage and practical approach have made it a staple in the libraries of software professionals worldwide.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 3,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfacd"
+  },
+  "bookId": "B006",
+  "title": "The Mythical Man-Month",
+  "author": "Frederick Brooks",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 322,
+  "description": "The Mythical Man-Month: Essays on Software Engineering by Frederick Brooks is a timeless classic that explores the complexities and challenges of managing large-scale software projects. Drawing from his experience leading IBM's OS/360 project, Brooks introduces the famous 'Brooks' Law,' which states that adding manpower to a late software project only makes it later. The book delves into the human and organizational aspects of software development, highlighting how communication overhead and mismanagement can derail even the best-planned projects. Brooks discusses the pitfalls of scheduling, the dangers of over-ambitious second systems, and the importance of conceptual integrity in design. He advocates for small, skilled teams and clear documentation, emphasizing that no amount of tools or additional staff can substitute for thoughtful planning and experienced leadership. The essays are filled with practical advice, anecdotes, and timeless observations that remain relevant in today's fast-paced tech industry. This book is essential reading for software engineers, project managers, and anyone interested in understanding the real-world dynamics of software development.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 6,
+  "status": "available",
+  "updatedAt": {
+    "$date": "2026-01-06T08:43:02.690Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bface"
+  },
+  "bookId": "B007",
+  "title": "Domain-Driven Design",
+  "author": "Eric Evans",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Spanish",
+    "Portuguese",
+    "French"
+  ],
+  "pages": 560,
+  "description": "Domain-Driven Design by Eric Evans is a groundbreaking book that addresses the complexity inherent in large software projects by focusing on the core business domain. Evans introduces the concept of a 'ubiquitous language,' a shared vocabulary used by both developers and domain experts to ensure that the software model accurately reflects real-world business needs. The book is divided into strategic and tactical design sections, covering topics such as bounded contexts, aggregates, entities, value objects, and repositories. Evans emphasizes the importance of continuous collaboration between technical and non-technical stakeholders, advocating for iterative refinement of the domain model. Through practical patterns and real-world examples, he demonstrates how to break down complex domains into manageable parts, leading to more maintainable and adaptable systems. Domain-Driven Design has become a foundational text for architects and developers working on enterprise applications, offering a methodology that bridges the gap between business requirements and technical implementation. Its principles are widely adopted in modern software engineering, especially in microservices and agile environments.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfacf"
+  },
+  "bookId": "B008",
+  "title": "Test Driven Development",
+  "author": "Kent Beck",
+  "category": "Technology",
+  "language": [
+    "English",
+    "French"
+  ],
+  "pages": 240,
+  "description": "Test Driven Development: By Example by Kent Beck is a seminal work that introduces the practice of writing tests before code as a way to improve software quality and design. Beck, one of the creators of Extreme Programming, explains the 'Red-Green-Refactor' cycle: write a failing test (red), write just enough code to pass the test (green), and then refactor the code for clarity and efficiency. The book provides hands-on examples, such as building a multi-currency money object and a simple testing framework, to illustrate how TDD leads to cleaner, more modular, and more reliable code. Beck discusses common patterns, pitfalls, and the mindset required to adopt TDD effectively. He emphasizes that TDD is not just about testing, but about driving the design of software through small, incremental steps and constant feedback. This approach reduces bugs, increases confidence in the codebase, and makes future changes easier. Test Driven Development is essential reading for developers seeking to improve their coding discipline and deliver higher-quality software.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad0"
+  },
+  "bookId": "B009",
+  "title": "Working Effectively with Legacy Code",
+  "author": "Michael Feathers",
+  "category": "Technology",
+  "language": [
+    "English"
+  ],
+  "pages": 464,
+  "description": "Working Effectively with Legacy Code by Michael Feathers is an indispensable guide for developers who inherit large, untested, and often confusing codebases. Feathers defines legacy code as 'code without tests' and provides a toolkit of strategies for safely making changes and improvements. The book introduces the concept of 'seams,' which are places in the code where behavior can be altered without direct modification, allowing for the introduction of tests and incremental refactoring. Feathers offers practical techniques such as 'sprout method,' 'wrap method,' and dependency breaking to help developers isolate and test problematic code. The book is structured as a series of solutions to common challenges, such as adding features, fixing bugs, and refactoring without breaking existing functionality. Through real-world examples and clear explanations, Feathers empowers developers to transform legacy systems into maintainable, testable, and robust applications. This book is essential for anyone working in real-world software environments where perfect code is rare and continuous improvement is necessary.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad1"
+  },
+  "bookId": "B010",
+  "title": "The Art of Computer Programming",
+  "author": "Donald Knuth",
+  "category": "Science",
+  "language": [
+    "English",
+    "Spanish",
+    "Chinese",
+    "Japanese",
+    "German"
+  ],
+  "pages": 672,
+  "description": "The Art of Computer Programming by Donald Knuth is a monumental multi-volume work that is widely regarded as the definitive reference on algorithms and programming theory. Knuth meticulously analyzes the mathematical properties and performance of algorithms, providing deep insights into their design and implementation. The series covers fundamental topics such as sorting, searching, random number generation, and combinatorial algorithms, all illustrated with detailed examples and exercises. Knuth's rigorous approach and attention to detail make this work both challenging and rewarding for serious students and professionals. The books are known for their precision, comprehensive coverage, and the inclusion of MIX assembly language for algorithm demonstration. While the content is dense, it serves as an essential resource for anyone seeking to master the theoretical foundations of computer science. The Art of Computer Programming is a must-have for computer scientists, software engineers, and mathematicians who aspire to understand the art and science behind efficient algorithm design.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 2,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad2"
+  },
+  "bookId": "B011",
+  "title": "Introduction to Algorithms",
+  "author": "Thomas H. Cormen",
+  "category": "Science",
+  "language": [
+    "English",
+    "French",
+    "German",
+    "Italian",
+    "Spanish"
+  ],
+  "pages": 1312,
+  "description": "Introduction to Algorithms, commonly known as CLRS (after its authors Cormen, Leiserson, Rivest, and Stein), is the definitive textbook for learning algorithms. Covering a broad range of topics, from basic data structures and sorting algorithms to advanced concepts like dynamic programming, graph algorithms, and NP-completeness, the book provides clear explanations and rigorous analysis. Each chapter includes pseudocode, mathematical proofs, and exercises that challenge readers to deepen their understanding. The book is widely used in university courses and is valued for its balance between theory and practical application. Its modular structure allows readers to focus on specific topics as needed. Whether you are a student, educator, or practicing software engineer, CLRS is an essential resource for mastering the principles and techniques that underpin modern computer science. Its comprehensive coverage and accessible style make it a staple in the libraries of programmers and researchers worldwide.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available",
+  "updatedAt": {
+    "$date": "2026-01-06T08:43:03.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad3"
+  },
+  "bookId": "B012",
+  "title": "Structure and Interpretation of Computer Programs",
+  "author": "Harold Abelson",
+  "category": "Science",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 657,
+  "description": "Structure and Interpretation of Computer Programs (SICP) by Harold Abelson and Gerald Jay Sussman is a classic textbook that has shaped the way computer science is taught. Using the Scheme programming language, SICP introduces fundamental concepts such as recursion, abstraction, modularity, and the interpretation of programming languages. The book emphasizes the importance of understanding the underlying principles of computation rather than focusing solely on syntax or specific technologies. Through a series of engaging examples and exercises, readers learn how to construct robust, elegant programs and reason about their behavior. SICP is renowned for its intellectual depth and its ability to challenge readers to think critically about programming. It is widely used in introductory computer science courses at top universities and is recommended for anyone who wants to gain a deep, conceptual understanding of how software works. The book's influence extends far beyond academia, inspiring generations of programmers to approach coding as both an art and a science.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad4"
+  },
+  "bookId": "B013",
+  "title": "The C Programming Language",
+  "author": "Brian Kernighan",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Spanish",
+    "Russian",
+    "Chinese"
+  ],
+  "pages": 288,
+  "description": "The C Programming Language by Brian Kernighan and Dennis Ritchie is the authoritative guide to the C language, written by its creators. Known as 'K&R,' this book provides a concise yet comprehensive introduction to C, covering its syntax, semantics, and idiomatic usage. The authors present the language through practical examples and exercises, illustrating how to write efficient, portable, and maintainable code. The book covers fundamental topics such as data types, control structures, functions, pointers, and memory management, as well as advanced features like file I/O and modular programming. Its clear explanations and practical approach have made it the standard reference for C programmers for decades. Whether you are a beginner learning C for the first time or an experienced developer seeking to deepen your understanding, this book is an essential resource. The C Programming Language has influenced countless programmers and remains a cornerstone of computer science education.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad5"
+  },
+  "bookId": "B014",
+  "title": "Effective Java",
+  "author": "Joshua Bloch",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Hindi",
+    "Spanish",
+    "French",
+    "German"
+  ],
+  "pages": 416,
+  "description": "Effective Java by Joshua Bloch is a must-read for Java developers seeking to write robust, maintainable, and efficient code. The book is organized as a collection of best practices, or 'items,' each addressing a specific aspect of Java programming. Bloch covers topics such as object creation, classes and interfaces, generics, enums, annotations, and concurrency. Each item is accompanied by clear explanations, code examples, and practical advice drawn from Bloch's experience as a lead architect at Sun Microsystems. The book emphasizes the importance of understanding the subtleties of the Java language and its libraries, helping developers avoid common pitfalls and write code that is both effective and elegant. Effective Java is widely regarded as the definitive guide to professional Java programming, and its recommendations are considered industry standards. Whether you are a novice or an experienced Java developer, this book will help you elevate your coding skills and produce higher-quality software.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad6"
+  },
+  "bookId": "B015",
+  "title": "You Don't Know JS",
+  "author": "Kyle Simpson",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Portuguese",
+    "Korean",
+    "Japanese"
+  ],
+  "pages": 278,
+  "description": "You Don't Know JS by Kyle Simpson is a comprehensive series that dives deep into the core mechanisms of JavaScript, challenging common misconceptions and revealing the language's true power. Unlike many JavaScript books that focus on frameworks or surface-level syntax, this series explores the language's inner workings, including scope, closures, prototypes, asynchronous programming, and types. Simpson's clear, conversational writing style makes complex topics accessible, while numerous code examples and exercises reinforce understanding. The books encourage readers to think critically about how JavaScript operates, enabling them to write more predictable, maintainable, and performant code. You Don't Know JS is ideal for developers who want to move beyond basic usage and gain a deeper, more nuanced understanding of JavaScript. Whether you are a beginner or an experienced programmer, this series will help you master the intricacies of one of the world's most popular programming languages.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad7"
+  },
+  "bookId": "B016",
+  "title": "JavaScript: The Good Parts",
+  "author": "Douglas Crockford",
+  "category": "Technology",
+  "language": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Italian"
+  ],
+  "pages": 176,
+  "description": "JavaScript: The Good Parts by Douglas Crockford is a highly influential book that distills the JavaScript language down to its most elegant and effective features. Crockford, a renowned JavaScript expert, identifies the strengths of the language while warning against its more problematic aspects. The book provides clear explanations of core concepts such as functions, objects, inheritance, arrays, regular expressions, and methods, focusing on the patterns and practices that lead to reliable, maintainable code. Crockford's concise writing style and insightful commentary help readers understand why certain features are considered 'good' and how to avoid common pitfalls. The book is filled with practical examples and advice, making it accessible to both beginners and experienced developers. JavaScript: The Good Parts has become a must-read for anyone serious about mastering JavaScript, influencing countless developers and shaping the way the language is taught and used in professional environments.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available",
+  "updatedAt": {
+    "$date": "2026-01-06T08:43:02.172Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad8"
+  },
+  "bookId": "B017",
+  "title": "Head First Design Patterns",
+  "author": "Eric Freeman",
+  "category": "Technology",
+  "language": [
+    "English"
+  ],
+  "pages": 694,
+  "description": "Head First Design Patterns by Eric Freeman and Elisabeth Robson is a visually rich and engaging introduction to the world of software design patterns. Using a unique, brain-friendly approach, the book breaks down complex concepts into digestible lessons filled with diagrams, puzzles, and real-world analogies. It covers the most important object-oriented design patterns, such as Singleton, Observer, Decorator, Factory, and Command, showing how they solve recurring problems in software architecture. The book emphasizes hands-on learning, encouraging readers to think critically and apply patterns in practical scenarios. Its conversational tone and interactive exercises make it accessible to both beginners and experienced programmers. Head First Design Patterns not only teaches the mechanics of each pattern but also explains when and why to use them, helping developers create flexible, maintainable, and scalable software. It is widely recommended as an essential resource for anyone looking to deepen their understanding of design patterns and improve their coding skills.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfad9"
+  },
+  "bookId": "B018",
+  "title": "Cracking the Coding Interview",
+  "author": "Gayle Laakmann McDowell",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 687,
+  "description": "Cracking the Coding Interview by Gayle Laakmann McDowell is the definitive guide for anyone preparing for software engineering interviews. The book contains 189 programming questions and solutions, covering a wide range of topics including data structures, algorithms, system design, and behavioral questions. McDowell provides detailed explanations, tips, and strategies for approaching technical interviews at top tech companies. The book also offers insights into the interview process, resume preparation, and what interviewers are looking for in candidates. Each problem is accompanied by a thorough solution and discussion of alternative approaches, helping readers build confidence and problem-solving skills. Cracking the Coding Interview is widely regarded as an essential resource for students, recent graduates, and experienced professionals aiming to succeed in competitive technical interviews. Its comprehensive coverage and practical advice have helped countless candidates land jobs at leading technology firms.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfada"
+  },
+  "bookId": "B019",
+  "title": "Clean Architecture",
+  "author": "Robert C. Martin",
+  "category": "Technology",
+  "language": [
+    "English"
+  ],
+  "pages": 432,
+  "description": "Clean Architecture by Robert C. Martin, also known as 'Uncle Bob,' provides a comprehensive guide to designing robust, maintainable, and scalable software systems. The book explores the principles and patterns that underpin effective software architecture, such as separation of concerns, dependency inversion, and the SOLID principles. Martin discusses the importance of keeping business logic independent from frameworks, databases, and user interfaces, ensuring that systems remain adaptable to change. Through real-world examples and case studies, he illustrates how to structure codebases for long-term success and avoid common architectural pitfalls. Clean Architecture is filled with practical advice for architects, developers, and team leads, emphasizing the value of craftsmanship and professionalism in software design. The book is widely recommended for anyone seeking to build high-quality applications that stand the test of time and evolving requirements.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfadb"
+  },
+  "bookId": "B020",
+  "title": "Patterns of Enterprise Application Architecture",
+  "author": "Martin Fowler",
+  "category": "Technology",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 533,
+  "description": "Patterns of Enterprise Application Architecture by Martin Fowler is a foundational text for software architects and developers working on large-scale business applications. The book catalogs a wide range of architectural patterns and best practices, such as Data Mapper, Unit of Work, and Model-View-Controller, that address common challenges in enterprise software development. Fowler provides clear explanations, UML diagrams, and real-world examples to illustrate how each pattern can be applied to create flexible, maintainable, and scalable systems. The book also discusses the trade-offs and considerations involved in choosing the right architecture for different business needs. Patterns of Enterprise Application Architecture is valued for its practical approach and its ability to bridge the gap between theory and implementation. It is an essential resource for anyone involved in designing or maintaining enterprise applications, helping teams deliver robust solutions that can evolve with changing requirements.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 3,
+  "availableCopies": 2,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfadc"
+  },
+  "bookId": "B021",
+  "title": "1984",
+  "author": "George Orwell",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "French",
+    "Spanish",
+    "German",
+    "Italian"
+  ],
+  "pages": 328,
+  "description": "1984 by George Orwell is a dystopian novel that explores the dangers of totalitarianism and extreme political ideology. Set in a future society ruled by the Party and its omnipresent leader, Big Brother, the story follows Winston Smith, a low-ranking member of the Party who secretly despises the regime. Orwell's chilling vision of a world where individuality is crushed, history is rewritten, and surveillance is constant has become a powerful warning against the loss of freedom and truth. The novel delves into themes of censorship, propaganda, psychological manipulation, and the nature of reality. Its concepts, such as 'doublethink' and 'thoughtcrime,' have entered the cultural lexicon. 1984 remains profoundly relevant, serving as a cautionary tale about the consequences of unchecked power and the importance of resisting oppression. It is widely regarded as one of the most important works of twentieth-century literature.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfadd"
+  },
+  "bookId": "B022",
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "Portuguese"
+  ],
+  "pages": 376,
+  "description": "To Kill a Mockingbird by Harper Lee is a classic novel that addresses themes of racial injustice, moral growth, and compassion in the American South during the 1930s. The story is told through the eyes of Scout Finch, a young girl whose father, Atticus Finch, is a principled lawyer defending a black man falsely accused of raping a white woman. The novel explores the complexities of human nature, the importance of empathy, and the struggle against prejudice. Lee's vivid characters and evocative setting bring to life the challenges faced by individuals who stand up for what is right in the face of societal pressure. To Kill a Mockingbird is celebrated for its warmth, humor, and profound insights into human behavior. It remains a cornerstone of American literature and a powerful call for justice and understanding.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfade"
+  },
+  "bookId": "B023",
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "Japanese",
+    "Chinese",
+    "Korean"
+  ],
+  "pages": 180,
+  "description": "The Great Gatsby by F. Scott Fitzgerald is a masterpiece of American literature that captures the spirit and excess of the Jazz Age. Set in the 1920s, the novel tells the story of Jay Gatsby, a mysterious millionaire known for his lavish parties and unyielding love for Daisy Buchanan. Narrated by Nick Carraway, Gatsby's neighbor, the book explores themes of wealth, ambition, love, and the illusion of the American Dream. Fitzgerald's lyrical prose and keen social commentary reveal the emptiness beneath the glittering surface of high society. The Great Gatsby is renowned for its complex characters, symbolic imagery, and exploration of the pursuit of happiness. It remains a timeless reflection on the hopes and disillusionments of a generation, and its influence endures in literature and popular culture.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfadf"
+  },
+  "bookId": "B024",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "Spanish"
+  ],
+  "pages": 432,
+  "description": "Pride and Prejudice by Jane Austen is a beloved romantic novel of manners that explores the complexities of love, class, and social expectations in early nineteenth-century England. The story centers on Elizabeth Bennet, an intelligent and spirited young woman, and her evolving relationship with the proud and enigmatic Mr. Darcy. Through witty dialogue, memorable characters, and keen observations of society, Austen examines the pitfalls of judging others too quickly and the transformative power of self-awareness. The novel is celebrated for its humor, irony, and timeless insights into human relationships. Pride and Prejudice remains one of the most popular and enduring works in English literature, cherished for its charm, wit, and enduring message about the importance of integrity and understanding in matters of the heart.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae0"
+  },
+  "bookId": "B025",
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "French",
+    "German",
+    "Spanish",
+    "Russian"
+  ],
+  "pages": 234,
+  "description": "The Catcher in the Rye by J.D. Salinger is a classic coming-of-age novel that explores the themes of adolescent angst, alienation, and the struggle to find one's place in a confusing world. The story follows Holden Caulfield, a disenchanted teenager who has just been expelled from prep school. As he wanders through New York City, Holden grapples with feelings of isolation, disillusionment, and a deep sense of loss. Salinger's narrative captures the voice of youth with authenticity and raw emotion, delving into Holden's inner turmoil as he confronts the phoniness of the adult world and searches for genuine connection. The novel is renowned for its candid portrayal of mental health, the challenges of growing up, and the longing for innocence in a world that often seems harsh and unforgiving. The Catcher in the Rye has resonated with generations of readers, becoming a touchstone for those navigating the complexities of adolescence and the transition to adulthood.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae1"
+  },
+  "bookId": "B026",
+  "title": "Lord of the Flies",
+  "author": "William Golding",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 224,
+  "description": "Lord of the Flies by William Golding is a powerful allegorical novel that examines the dark side of human nature and the breakdown of civilization. The story centers on a group of British schoolboys stranded on a deserted island after a plane crash. Without adult supervision, the boys attempt to govern themselves, but their efforts quickly descend into chaos and savagery. Golding explores themes of survival, power, fear, and the inherent capacity for evil within all people. The novel's vivid characters, including Ralph, Piggy, and the sinister Jack, embody different aspects of society and morality. Through their struggles, Golding raises profound questions about the thin veneer of civilization and what happens when it is stripped away. Lord of the Flies remains a staple in literature classes for its gripping narrative, symbolic depth, and its unflinching look at the primal instincts that can emerge in the absence of order.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae2"
+  },
+  "bookId": "B027",
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "category": "Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 112,
+  "description": "Animal Farm by George Orwell is a brilliant allegorical novella that satirizes the events leading up to the Russian Revolution of 1917 and the early years of the Soviet Union. The story unfolds on a farm where the animals, led by the pigs Napoleon and Snowball, overthrow their human owner in pursuit of equality and freedom. However, as the pigs consolidate power, the farm's new society becomes increasingly oppressive and corrupt, mirroring the very tyranny they sought to escape. Orwell's sharp prose and memorable characters, such as Boxer the horse and Squealer the propagandist, highlight the dangers of totalitarianism, propaganda, and the betrayal of revolutionary ideals. Animal Farm is celebrated for its clarity, wit, and enduring relevance, serving as a cautionary tale about the corrupting influence of power and the ease with which noble intentions can be subverted.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae3"
+  },
+  "bookId": "B028",
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 311,
+  "description": "Brave New World by Aldous Huxley is a visionary dystopian novel that imagines a future society driven by consumerism, technological control, and the sacrifice of individuality for collective stability. Set in a world where people are engineered for specific roles and kept docile through pleasure and distraction, the story follows Bernard Marx and Lenina Crowne as they begin to question the cost of their society's apparent perfection. Huxley explores themes of freedom, conformity, the loss of humanity, and the dangers of an all-powerful state. The novel's provocative ideas about science, ethics, and the meaning of happiness have sparked debate for decades. Brave New World remains a cornerstone of dystopian literature, warning against the perils of sacrificing personal autonomy and critical thought for comfort and social order.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae4"
+  },
+  "bookId": "B029",
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "category": "Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 310,
+  "description": "The Hobbit by J.R.R. Tolkien is a beloved fantasy adventure that introduces readers to the enchanting world of Middle-earth. The story follows Bilbo Baggins, a reluctant hobbit who is swept into an epic quest by the wizard Gandalf and a group of dwarves seeking to reclaim their homeland from the dragon Smaug. Along the way, Bilbo encounters trolls, goblins, elves, and the mysterious creature Gollum, whose magic ring will later become central to The Lord of the Rings. Tolkien's masterful storytelling, rich world-building, and memorable characters have made The Hobbit a timeless classic for readers of all ages. The novel explores themes of courage, friendship, and the transformative power of adventure, inspiring countless adaptations and generations of fantasy enthusiasts.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae5"
+  },
+  "bookId": "B030",
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "category": "Fiction",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 256,
+  "description": "Fahrenheit 451 by Ray Bradbury is a haunting dystopian novel that explores a future society where books are banned and 'firemen' burn any that are found. The protagonist, Guy Montag, is a fireman who begins to question the purpose of his work and the oppressive regime that forbids independent thought. As Montag awakens to the value of literature and free expression, he becomes a fugitive, risking everything to preserve knowledge and truth. Bradbury's vivid imagery and prophetic vision highlight the dangers of censorship, conformity, and the loss of intellectual freedom. Fahrenheit 451 remains a powerful warning about the consequences of suppressing ideas and the enduring importance of books in shaping human consciousness.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae6"
+  },
+  "bookId": "B031",
+  "title": "Sapiens",
+  "author": "Yuval Noah Harari",
+  "category": "History",
+  "language": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese"
+  ],
+  "pages": 443,
+  "description": "Sapiens: A Brief History of Humankind by Yuval Noah Harari is a sweeping narrative that traces the evolution of Homo sapiens from ancient hunter-gatherers to the dominant species on Earth. Harari explores key developments such as the Cognitive Revolution, the Agricultural Revolution, and the rise of complex societies, examining how shared myths, religion, and economic systems have shaped human history. The book challenges readers to reconsider what it means to be human, delving into the impact of science, technology, and capitalism on our lives and the planet. Harari's engaging style and thought-provoking insights make Sapiens a must-read for anyone interested in understanding the forces that have shaped civilization and the challenges that lie ahead.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae7"
+  },
+  "bookId": "B032",
+  "title": "Guns, Germs, and Steel",
+  "author": "Jared Diamond",
+  "category": "History",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 425,
+  "description": "Guns, Germs, and Steel by Jared Diamond is a groundbreaking work that seeks to explain why some societies have prospered while others have remained less developed. Diamond argues that geography, environment, and access to domesticable plants and animals played crucial roles in shaping the fate of civilizations. The book examines the spread of agriculture, the development of technology, and the impact of infectious diseases on human societies. Through a multidisciplinary approach, Diamond challenges traditional views of history, emphasizing the role of environmental factors over racial or cultural superiority. Guns, Germs, and Steel has won numerous awards and remains a seminal text for those interested in anthropology, history, and the roots of global inequality.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae8"
+  },
+  "bookId": "B033",
+  "title": "The Rise and Fall of the Third Reich",
+  "author": "William L. Shirer",
+  "category": "History",
+  "language": [
+    "English",
+    "German",
+    "French",
+    "Spanish",
+    "Russian"
+  ],
+  "pages": 1249,
+  "description": "The Rise and Fall of the Third Reich by William L. Shirer is a monumental account of Nazi Germany, chronicling the origins, rise, and ultimate collapse of Adolf Hitler's regime. Drawing on official documents, diaries, and personal interviews, Shirer provides a detailed and gripping narrative of the political, military, and social forces that shaped one of history's darkest periods. The book examines the personalities, ideologies, and events that led to the Holocaust and World War II, offering insights into the dangers of totalitarianism and unchecked power. The Rise and Fall of the Third Reich is widely regarded as one of the most important works on twentieth-century history, valued for its thorough research and compelling storytelling.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 3,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfae9"
+  },
+  "bookId": "B034",
+  "title": "A People's History of the United States",
+  "author": "Howard Zinn",
+  "category": "History",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 729,
+  "description": "A People's History of the United States by Howard Zinn offers a radically different perspective on American history, focusing on the experiences of those often left out of traditional narratives. Zinn chronicles the struggles of Native Americans, African Americans, women, workers, and other marginalized groups, highlighting their resistance and contributions to the nation's development. The book challenges readers to question established historical accounts and consider the impact of power, inequality, and social movements on the course of history. Zinn's engaging and accessible writing has made this work a classic in the field, inspiring readers to think critically about the past and its relevance to contemporary issues.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaea"
+  },
+  "bookId": "B035",
+  "title": "The History of the Ancient World",
+  "author": "Susan Wise Bauer",
+  "category": "History",
+  "language": [
+    "English"
+  ],
+  "pages": 896,
+  "description": "The History of the Ancient World by Susan Wise Bauer is a comprehensive chronicle of the earliest civilizations, from the first written records to the fall of Rome. Bauer weaves together the stories of ancient Mesopotamia, Egypt, India, China, Greece, and Rome, highlighting the interconnectedness of human societies across continents and centuries. The book explores the rise and fall of empires, the development of writing and religion, and the enduring legacies of ancient cultures. Bauer's accessible style and meticulous research make this an essential resource for anyone interested in the foundations of human civilization and the lessons of the ancient past.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaeb"
+  },
+  "bookId": "B036",
+  "title": "The Silk Roads",
+  "author": "Peter Frankopan",
+  "category": "History",
+  "language": [
+    "English",
+    "French"
+  ],
+  "pages": 656,
+  "description": "The Silk Roads by Peter Frankopan offers a fresh perspective on world history by shifting the focus from the West to the East. Frankopan traces the rise and fall of empires, religions, and trade along the ancient Silk Roads that connected Europe, Asia, and Africa. The book explores the exchange of goods, ideas, and cultures that shaped the modern world, highlighting the importance of Central Asia and the Middle East in global history. Frankopan's engaging narrative challenges Eurocentric views and encourages readers to reconsider the forces that have shaped civilization. The Silk Roads is a thought-provoking and richly detailed account that broadens our understanding of the interconnectedness of human societies.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaec"
+  },
+  "bookId": "B037",
+  "title": "The Origins of Totalitarianism",
+  "author": "Hannah Arendt",
+  "category": "History",
+  "language": [
+    "English"
+  ],
+  "pages": 704,
+  "description": "The Origins of Totalitarianism by Hannah Arendt is a profound analysis of the roots and nature of totalitarian regimes in the twentieth century. Arendt examines the rise of anti-Semitism, imperialism, and the emergence of totalitarian movements in Nazi Germany and Stalinist Russia. Through rigorous scholarship and philosophical insight, she explores how ideology, propaganda, and the breakdown of traditional social structures paved the way for unprecedented levels of state control and violence. The book remains a foundational text for understanding the dynamics of power, authority, and the fragility of democratic institutions in the face of extremism.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaed"
+  },
+  "bookId": "B038",
+  "title": "The Second World War",
+  "author": "Winston Churchill",
+  "category": "History",
+  "language": [
+    "English",
+    "Spanish"
+  ],
+  "pages": 4736,
+  "description": "The Second World War by Winston Churchill is an epic six-volume memoir that provides a detailed and personal account of World War II from the perspective of one of its key leaders. Churchill recounts the political, military, and diplomatic events that shaped the conflict, offering insights into the strategies, personalities, and decisions that determined its outcome. The memoir is both a historical record and a reflection on leadership, resilience, and the moral challenges of war. Churchill's eloquent prose and firsthand experience make this work an invaluable resource for understanding the complexities of the twentieth century's defining conflict.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 2,
+  "availableCopies": 1,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaee"
+  },
+  "bookId": "B039",
+  "title": "The Decline and Fall of the Roman Empire",
+  "author": "Edward Gibbon",
+  "category": "History",
+  "language": [
+    "English"
+  ],
+  "pages": 1232,
+  "description": "The Decline and Fall of the Roman Empire by Edward Gibbon is a monumental work of history that traces the gradual collapse of one of the world's greatest civilizations. Gibbon examines the political, military, economic, and cultural factors that contributed to Rome's decline, from the height of its power to the eventual fall of Constantinople. The book is renowned for its scholarly rigor, elegant prose, and critical analysis of historical sources. Gibbon's insights into the causes of societal decay and the lessons of history continue to resonate with readers and historians alike, making this work a cornerstone of classical scholarship.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaef"
+  },
+  "bookId": "B040",
+  "title": "A Short History of Nearly Everything",
+  "author": "Bill Bryson",
+  "category": "Science",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 544,
+  "description": "A Short History of Nearly Everything by Bill Bryson is an accessible and entertaining exploration of science and the universe. Bryson takes readers on a journey through time and space, explaining complex scientific concepts in a clear and engaging manner. From the origins of the universe and the formation of the Earth to the development of life and the mysteries of physics, chemistry, and biology, Bryson covers a vast array of topics with wit and curiosity. The book celebrates the achievements of scientists and the wonders of discovery, while also highlighting the many unanswered questions that remain. A Short History of Nearly Everything is perfect for anyone who wants to better understand the world around them and the remarkable story of how we came to know what we know.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf0"
+  },
+  "bookId": "B041",
+  "title": "A Brief History of Time",
+  "author": "Stephen Hawking",
+  "category": "Science",
+  "language": [
+    "English",
+    "Spanish",
+    "French",
+    "Chinese",
+    "Japanese",
+    "German"
+  ],
+  "pages": 256,
+  "description": "A Brief History of Time by Stephen Hawking explores fundamental questions about the universe, from the big bang to black holes. Hawking explains complex concepts in cosmology, such as the nature of time, the structure of space, and the origins of the universe, in a way that is accessible to non-scientists. The book discusses the search for a unified theory of physics and the mysteries that remain about the cosmos. It has inspired millions to ponder the nature of reality and our place in the universe.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf1"
+  },
+  "bookId": "B042",
+  "title": "The Selfish Gene",
+  "author": "Richard Dawkins",
+  "category": "Science",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 360,
+  "description": "The Selfish Gene by Richard Dawkins presents evolution from the perspective of genes, arguing that natural selection operates at the level of genes rather than individuals or species. Dawkins introduces concepts such as the 'selfish' behavior of genes, altruism, and the role of replicators in evolution. The book popularized the idea of the gene-centered view of evolution and introduced the term 'meme' for cultural transmission. It is a landmark work in evolutionary biology and science communication.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf2"
+  },
+  "bookId": "B043",
+  "title": "Cosmos",
+  "author": "Carl Sagan",
+  "category": "Science",
+  "language": [
+    "English"
+  ],
+  "pages": 384,
+  "description": "Cosmos by Carl Sagan is a personal voyage through the universe, blending science, philosophy, and history. Sagan explores the origins of life, the development of science, and humanity's place in the cosmos. The book is known for its poetic prose and its ability to inspire wonder about the universe. It accompanies the acclaimed television series and remains a classic introduction to astronomy and the scientific worldview.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf3"
+  },
+  "bookId": "B044",
+  "title": "The Double Helix",
+  "author": "James Watson",
+  "category": "Science",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 226,
+  "description": "The Double Helix by James Watson is a first-person account of the discovery of the structure of DNA. Watson recounts the scientific process, personal rivalries, and the excitement of one of the greatest breakthroughs in biology. The book provides insight into the nature of scientific discovery and the personalities behind it, making it a compelling read for anyone interested in genetics and the history of science.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf4"
+  },
+  "bookId": "B045",
+  "title": "The Elegant Universe",
+  "author": "Brian Greene",
+  "category": "Science",
+  "language": [
+    "English"
+  ],
+  "pages": 448,
+  "description": "The Elegant Universe by Brian Greene explores superstring theory and the quest for a unified theory of physics. Greene explains the fundamental principles of relativity and quantum mechanics, and how string theory aims to reconcile them. The book makes advanced concepts in theoretical physics accessible and engaging, offering readers a glimpse into the cutting edge of scientific thought.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf5"
+  },
+  "bookId": "B046",
+  "title": "The Immortal Life of Henrietta Lacks",
+  "author": "Rebecca Skloot",
+  "category": "Science",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 381,
+  "description": "The Immortal Life of Henrietta Lacks by Rebecca Skloot tells the story of the woman behind the HeLa cells, which revolutionized medical research. The book explores issues of medical ethics, race, and the impact of scientific discovery on individuals and families. Skloot combines biography, science, and social commentary in a compelling narrative that has become essential reading in both science and ethics.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf6"
+  },
+  "bookId": "B047",
+  "title": "The Gene",
+  "author": "Siddhartha Mukherjee",
+  "category": "Science",
+  "language": [
+    "English"
+  ],
+  "pages": 592,
+  "description": "The Gene by Siddhartha Mukherjee is an intimate history of the gene, tracing the science of genetics from its origins to the present. Mukherjee weaves together scientific discovery, personal stories, and ethical questions, providing a comprehensive overview of how genes shape our lives and our future. The book is acclaimed for its clarity, depth, and storytelling.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf7"
+  },
+  "bookId": "B048",
+  "title": "The Emperor of All Maladies",
+  "author": "Siddhartha Mukherjee",
+  "category": "Science",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 571,
+  "description": "The Emperor of All Maladies by Siddhartha Mukherjee is a biography of cancer, chronicling its history, treatment, and the ongoing fight to cure it. Mukherjee combines medical history, patient stories, and scientific research to provide a comprehensive and human perspective on one of medicine's greatest challenges.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 3,
+  "availableCopies": 2,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf8"
+  },
+  "bookId": "B049",
+  "title": "The Man Who Knew Infinity",
+  "author": "Robert Kanigel",
+  "category": "Science",
+  "language": [
+    "English"
+  ],
+  "pages": 438,
+  "description": "The Man Who Knew Infinity by Robert Kanigel is the biography of mathematician Srinivasa Ramanujan. The book tells the story of Ramanujan's journey from India to Cambridge, his collaboration with G.H. Hardy, and his extraordinary mathematical insights. It highlights the challenges and triumphs of a genius whose work continues to influence mathematics today.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaf9"
+  },
+  "bookId": "B050",
+  "title": "The Andromeda Strain",
+  "author": "Michael Crichton",
+  "category": "Science",
+  "language": [
+    "English",
+    "French"
+  ],
+  "pages": 327,
+  "description": "The Andromeda Strain by Michael Crichton is a microbiological thriller about a deadly extraterrestrial microorganism. The novel follows a team of scientists racing against time to understand and contain the outbreak. Blending science fiction with real scientific principles, it is a gripping story of crisis and discovery.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfafa"
+  },
+  "bookId": "B051",
+  "title": "The Da Vinci Code",
+  "author": "Dan Brown",
+  "category": "Mystery",
+  "language": [
+    "English",
+    "French",
+    "Spanish",
+    "Italian",
+    "German",
+    "Portuguese"
+  ],
+  "pages": 489,
+  "description": "The Da Vinci Code by Dan Brown is a fast-paced thriller that blends art, history, and conspiracy. The story follows symbologist Robert Langdon and cryptologist Sophie Neveu as they unravel a series of clues hidden in famous works of art and architecture, leading to secrets about the Holy Grail and secret societies. Brown's novel is known for its intricate puzzles, suspenseful plot, and controversial interpretations of religious history. The Da Vinci Code has captivated millions of readers worldwide and sparked debate about faith, truth, and the power of hidden knowledge.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfafb"
+  },
+  "bookId": "B052",
+  "title": "The Girl with the Dragon Tattoo",
+  "author": "Stieg Larsson",
+  "category": "Mystery",
+  "language": [
+    "English",
+    "Spanish"
+  ],
+  "pages": 465,
+  "description": "The Girl with the Dragon Tattoo by Stieg Larsson is a gripping crime thriller that combines mystery, social commentary, and complex characters. Journalist Mikael Blomkvist and hacker Lisbeth Salander investigate a decades-old disappearance in Sweden, uncovering dark secrets and corruption. Larsson's novel is praised for its intricate plot, strong female protagonist, and exploration of themes such as justice, abuse, and the power of information. It is the first book in the acclaimed Millennium series.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfafc"
+  },
+  "bookId": "B053",
+  "title": "Gone Girl",
+  "author": "Gillian Flynn",
+  "category": "Mystery",
+  "language": [
+    "English"
+  ],
+  "pages": 415,
+  "description": "Gone Girl by Gillian Flynn is a psychological thriller that explores the complexities of marriage, deception, and media influence. When Amy Dunne goes missing, suspicion falls on her husband Nick, whose secrets and lies unravel as the investigation progresses. Flynn's novel is known for its unreliable narrators, dark humor, and shocking twists. Gone Girl delves into the darker side of relationships and the ways in which truth can be manipulated.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfafd"
+  },
+  "bookId": "B054",
+  "title": "The Big Sleep",
+  "author": "Raymond Chandler",
+  "category": "Mystery",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 231,
+  "description": "The Big Sleep by Raymond Chandler is a classic hardboiled detective novel featuring private investigator Philip Marlowe. Set in Los Angeles, the story is filled with intrigue, corruption, and complex characters. Chandler's sharp dialogue and atmospheric writing define the noir genre, while Marlowe's moral code and wit make him an enduring literary figure. The Big Sleep is celebrated for its intricate plot and its influence on crime fiction.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfafe"
+  },
+  "bookId": "B055",
+  "title": "In Cold Blood",
+  "author": "Truman Capote",
+  "category": "Mystery",
+  "language": [
+    "English"
+  ],
+  "pages": 343,
+  "description": "In Cold Blood by Truman Capote is a groundbreaking work of true crime that reconstructs the brutal murder of a Kansas family and the subsequent investigation. Capote's meticulous research and literary style create a compelling narrative that explores the psychology of the killers and the impact of violence on a community. The book is considered a masterpiece of nonfiction and a pioneer of the true crime genre.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfaff"
+  },
+  "bookId": "B056",
+  "title": "The Hound of the Baskervilles",
+  "author": "Arthur Conan Doyle",
+  "category": "Mystery",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 256,
+  "description": "The Hound of the Baskervilles by Arthur Conan Doyle is one of the most famous Sherlock Holmes adventures. Holmes and Dr. Watson investigate the legend of a supernatural hound haunting the Baskerville family on the moors of Devonshire. Doyle masterfully blends gothic atmosphere, suspense, and deductive reasoning, making this novel a classic of detective fiction and a favorite among Holmes fans.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb00"
+  },
+  "bookId": "B057",
+  "title": "The Maltese Falcon",
+  "author": "Dashiell Hammett",
+  "category": "Mystery",
+  "language": [
+    "English"
+  ],
+  "pages": 217,
+  "description": "The Maltese Falcon by Dashiell Hammett is a cornerstone of the noir detective genre. Private eye Sam Spade becomes embroiled in a dangerous search for a priceless statuette, encountering deceitful characters and moral ambiguity. Hammett's crisp prose, complex plot, and iconic protagonist have made The Maltese Falcon a lasting influence on crime fiction and film.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb01"
+  },
+  "bookId": "B058",
+  "title": "The Murder of Roger Ackroyd",
+  "author": "Agatha Christie",
+  "category": "Mystery",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 288,
+  "description": "The Murder of Roger Ackroyd by Agatha Christie is a landmark in detective fiction, featuring the brilliant Belgian detective Hercule Poirot. The novel is renowned for its innovative plot twist and masterful misdirection, challenging readers to solve the mystery alongside Poirot. Christie's clever storytelling and memorable characters have made this book a favorite among mystery enthusiasts.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb02"
+  },
+  "bookId": "B059",
+  "title": "The Name of the Rose",
+  "author": "Umberto Eco",
+  "category": "Mystery",
+  "language": [
+    "English"
+  ],
+  "pages": 536,
+  "description": "The Name of the Rose by Umberto Eco is a historical mystery set in a medieval monastery. Franciscan friar William of Baskerville investigates a series of murders, uncovering secrets about faith, knowledge, and power. Eco's novel combines detective fiction, philosophy, and rich historical detail, making it a complex and rewarding read for lovers of literary mysteries.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb03"
+  },
+  "bookId": "B060",
+  "title": "The Cuckoo's Calling",
+  "author": "Robert Galbraith",
+  "category": "Mystery",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 455,
+  "description": "The Cuckoo's Calling by Robert Galbraith (J.K. Rowling) introduces private detective Cormoran Strike, who investigates the suspicious death of a supermodel. The novel blends classic detective tropes with modern London settings, offering sharp characterization and engaging twists. The Cuckoo's Calling is the first in the popular Cormoran Strike series.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb04"
+  },
+  "bookId": "B061",
+  "title": "Meditations",
+  "author": "Marcus Aurelius",
+  "category": "Philosophy",
+  "language": [
+    "English",
+    "Greek",
+    "Latin",
+    "French",
+    "German",
+    "Spanish"
+  ],
+  "pages": 256,
+  "description": "Meditations by Marcus Aurelius is a collection of personal writings by the Roman emperor, reflecting on Stoic philosophy and the pursuit of virtue. Aurelius offers timeless wisdom on self-discipline, resilience, and the nature of existence. The book is revered for its practical guidance and its influence on Western thought.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb05"
+  },
+  "bookId": "B062",
+  "title": "The Republic",
+  "author": "Plato",
+  "category": "Philosophy",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 416,
+  "description": "The Republic by Plato is a foundational work of Western philosophy, exploring justice, politics, and the ideal society. Through dialogues led by Socrates, Plato examines the nature of reality, the role of the philosopher, and the structure of government. The Republic's ideas on ethics, education, and governance continue to shape philosophical and political thought.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb06"
+  },
+  "bookId": "B063",
+  "title": "Beyond Good and Evil",
+  "author": "Friedrich Nietzsche",
+  "category": "Philosophy",
+  "language": [
+    "English"
+  ],
+  "pages": 240,
+  "description": "Beyond Good and Evil by Friedrich Nietzsche is a provocative critique of traditional morality and philosophy. Nietzsche challenges established values, advocating for the creation of new ideals and the embrace of individual strength. The book is known for its aphoristic style and its influence on existentialism and modern thought.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb07"
+  },
+  "bookId": "B064",
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "category": "Philosophy",
+  "language": [
+    "English",
+    "French"
+  ],
+  "pages": 273,
+  "description": "The Art of War by Sun Tzu is an ancient Chinese treatise on military strategy and tactics. Its principles of leadership, planning, and adaptability have been applied not only in warfare but also in business and personal development. The book's concise wisdom and practical advice have made it a timeless guide to achieving success.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb08"
+  },
+  "bookId": "B065",
+  "title": "Critique of Pure Reason",
+  "author": "Immanuel Kant",
+  "category": "Philosophy",
+  "language": [
+    "English"
+  ],
+  "pages": 856,
+  "description": "Critique of Pure Reason by Immanuel Kant is a monumental work in philosophy, examining the limits and possibilities of human knowledge. Kant explores the relationship between experience and reason, laying the foundation for modern epistemology. The book's complex arguments and profound insights have influenced generations of philosophers.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 3,
+  "availableCopies": 2,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb09"
+  },
+  "bookId": "B066",
+  "title": "Thus Spoke Zarathustra",
+  "author": "Friedrich Nietzsche",
+  "category": "Philosophy",
+  "language": [
+    "English",
+    "Spanish"
+  ],
+  "pages": 352,
+  "description": "Thus Spoke Zarathustra by Friedrich Nietzsche is a philosophical novel that presents Nietzsche's ideas on the 'Übermensch,' the will to power, and the rejection of conventional morality. Through poetic language and allegorical storytelling, Nietzsche challenges readers to embrace self-overcoming and creative transformation.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb0a"
+  },
+  "bookId": "B067",
+  "title": "The Prince",
+  "author": "Niccolò Machiavelli",
+  "category": "Philosophy",
+  "language": [
+    "English"
+  ],
+  "pages": 140,
+  "description": "The Prince by Niccolò Machiavelli is a classic treatise on power, politics, and leadership. Machiavelli offers pragmatic advice to rulers on how to maintain authority and navigate the complexities of governance. The book's candid analysis of political strategy has made it both influential and controversial.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb0b"
+  },
+  "bookId": "B068",
+  "title": "Being and Time",
+  "author": "Martin Heidegger",
+  "category": "Philosophy",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 589,
+  "description": "Being and Time by Martin Heidegger is a foundational text in existential phenomenology. Heidegger explores the nature of being, time, and human existence, challenging readers to reconsider their understanding of reality. The book's profound insights and complex arguments have made it a cornerstone of twentieth-century philosophy.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb0c"
+  },
+  "bookId": "B069",
+  "title": "The Stranger",
+  "author": "Albert Camus",
+  "category": "Philosophy",
+  "language": [
+    "English"
+  ],
+  "pages": 123,
+  "description": "The Stranger by Albert Camus is a novel that explores themes of absurdism and existentialism. The protagonist, Meursault, confronts the meaninglessness of life and the arbitrariness of fate. Camus's spare prose and philosophical depth make The Stranger a powerful meditation on alienation and the human condition.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb0d"
+  },
+  "bookId": "B070",
+  "title": "The Myth of Sisyphus",
+  "author": "Albert Camus",
+  "category": "Philosophy",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 212,
+  "description": "The Myth of Sisyphus by Albert Camus is an essay that examines the concept of the absurd and the human struggle to find meaning. Camus uses the Greek myth of Sisyphus, condemned to endlessly roll a boulder uphill, as a metaphor for the human condition. The book is a key text in existential philosophy and a profound reflection on perseverance and hope.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb0e"
+  },
+  "bookId": "B071",
+  "title": "Steve Jobs",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "language": [
+    "English",
+    "Spanish",
+    "French",
+    "Japanese",
+    "Chinese",
+    "German"
+  ],
+  "pages": 656,
+  "description": "Walter Isaacson's 'Steve Jobs' is a comprehensive biography that delves into the life and legacy of the visionary co-founder of Apple Inc. Drawing from over forty interviews with Jobs himself, as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues, Isaacson paints a vivid portrait of a complex and driven individual. The book explores Jobs’s relentless pursuit of perfection, his innovative spirit, and his sometimes abrasive leadership style. Readers gain insight into the creation of iconic products like the iPod, iPhone, and iPad, and the ways in which Jobs revolutionized multiple industries, from personal computing to music, animated movies, and mobile phones. Isaacson does not shy away from Jobs’s flaws, presenting a balanced view of his genius and his challenges. This biography is not only a chronicle of technological innovation but also a story of creativity, passion, and the power of thinking differently. It is an essential read for anyone interested in the intersection of technology, business, and design, and in understanding the man who helped shape the modern digital age.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb0f"
+  },
+  "bookId": "B072",
+  "title": "Einstein: His Life and Universe",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 704,
+  "description": "In 'Einstein: His Life and Universe,' Walter Isaacson presents a masterful biography of one of history’s greatest scientific minds. Drawing on newly released personal letters of Albert Einstein, Isaacson explores the man behind the theory of relativity, revealing a figure who was as passionate about social justice and human rights as he was about science. The book traces Einstein’s journey from a curious child in Germany to a rebellious student, and ultimately to a Nobel Prize-winning physicist whose theories changed the way we understand the universe. Isaacson delves into Einstein’s personal life, including his relationships, struggles, and the challenges he faced as a Jewish intellectual during turbulent times. The biography also highlights Einstein’s philosophical reflections, his advocacy for peace, and his enduring curiosity. With engaging storytelling and accessible explanations of complex scientific concepts, this book offers readers a deep understanding of both Einstein’s scientific achievements and his profound humanity.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb10"
+  },
+  "bookId": "B073",
+  "title": "The Autobiography of Malcolm X",
+  "author": "Malcolm X",
+  "category": "Biography",
+  "language": [
+    "English"
+  ],
+  "pages": 460,
+  "description": "‘The Autobiography of Malcolm X’ is a powerful and transformative account of one of the most influential civil rights leaders in American history. Written in collaboration with journalist Alex Haley, the book traces Malcolm X’s journey from his troubled childhood and time spent in prison to his emergence as a passionate advocate for Black empowerment and social justice. The narrative is candid and unflinching, detailing Malcolm’s early experiences with racism, his involvement in crime, and his eventual conversion to the Nation of Islam. As Malcolm’s worldview evolves, so does his message, culminating in his pilgrimage to Mecca and his embrace of a more inclusive vision for racial harmony. The autobiography is not only a chronicle of personal transformation but also a searing critique of systemic injustice. It remains a seminal work in American literature, inspiring generations to challenge oppression and seek truth. Malcolm X’s voice, honesty, and courage resonate throughout, making this book an essential read for understanding the complexities of race, identity, and activism.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb11"
+  },
+  "bookId": "B074",
+  "title": "Long Walk to Freedom",
+  "author": "Nelson Mandela",
+  "category": "Biography",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 656,
+  "description": "‘Long Walk to Freedom’ is the remarkable autobiography of Nelson Mandela, chronicling his extraordinary journey from rural childhood to becoming the first Black president of South Africa. Mandela recounts his early years, his education, and his growing awareness of the injustices of apartheid. The book details his involvement in the African National Congress, his leadership in the anti-apartheid movement, and the 27 years he spent in prison for his beliefs. Mandela’s narrative is both deeply personal and profoundly political, offering insights into his resilience, forgiveness, and unwavering commitment to equality. The autobiography captures the struggles, sacrifices, and triumphs that defined Mandela’s life and the broader fight for freedom in South Africa. Through his words, readers witness the power of hope, reconciliation, and the enduring human spirit. ‘Long Walk to Freedom’ is an inspiring testament to the capacity for change and the importance of standing up for justice, making it a timeless classic in the literature of human rights.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb12"
+  },
+  "bookId": "B075",
+  "title": "The Diary of a Young Girl",
+  "author": "Anne Frank",
+  "category": "Biography",
+  "language": [
+    "English"
+  ],
+  "pages": 283,
+  "description": "‘The Diary of a Young Girl’ by Anne Frank is a poignant and deeply moving account of a young Jewish girl’s life in hiding during the Nazi occupation of the Netherlands. Written between 1942 and 1944, Anne’s diary chronicles her thoughts, fears, and hopes as she and her family conceal themselves in a secret annex. Through her candid and insightful entries, Anne offers a unique perspective on the horrors of war, the challenges of confinement, and the resilience of the human spirit. Her writing is marked by honesty, humor, and a profound sense of hope, even in the face of unimaginable adversity. The diary not only documents the daily struggles of life in hiding but also captures Anne’s growth as a writer and thinker. Tragically, Anne’s life was cut short, but her words have endured, touching millions around the world. This book remains a powerful testament to the enduring strength of hope and the importance of remembering history.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb13"
+  },
+  "bookId": "B076",
+  "title": "I Know Why the Caged Bird Sings",
+  "author": "Maya Angelou",
+  "category": "Biography",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 289,
+  "description": "Maya Angelou’s 'I Know Why the Caged Bird Sings' is a lyrical and unflinching memoir that recounts the author’s early years in the segregated American South. Through vivid storytelling, Angelou describes her experiences with racism, trauma, and displacement, as well as her journey toward self-acceptance and empowerment. The book explores themes of identity, resilience, and the transformative power of literature and education. Angelou’s voice is both vulnerable and strong, capturing the pain of her struggles and the triumph of her spirit. Her relationships with family, especially her grandmother, provide a foundation of love and support that helps her navigate a world filled with prejudice and hardship. The memoir is celebrated for its poetic language, emotional depth, and its role in giving voice to the experiences of Black women. 'I Know Why the Caged Bird Sings' is a testament to the enduring strength of the human spirit and the importance of finding one’s voice.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb14"
+  },
+  "bookId": "B077",
+  "title": "The Wright Brothers",
+  "author": "David McCullough",
+  "category": "Biography",
+  "language": [
+    "English"
+  ],
+  "pages": 320,
+  "description": "David McCullough’s 'The Wright Brothers' tells the inspiring story of Wilbur and Orville Wright, two brothers from Dayton, Ohio, whose ingenuity and determination led to the invention of powered flight. Drawing on extensive research and personal letters, McCullough brings to life the challenges, setbacks, and triumphs that defined the brothers’ journey. The book explores their close partnership, their relentless experimentation, and their ability to overcome skepticism and failure. McCullough highlights the Wrights’ modest backgrounds, their mechanical skills, and their unwavering belief in their dream. The narrative captures the excitement of the first successful flights at Kitty Hawk and the global impact of their achievement. 'The Wright Brothers' is not only a story of technological innovation but also a celebration of perseverance, curiosity, and the spirit of discovery. McCullough’s engaging prose makes this biography accessible and inspiring, offering readers a deeper appreciation for the pioneers who changed the world.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb15"
+  },
+  "bookId": "B078",
+  "title": "Alexander Hamilton",
+  "author": "Ron Chernow",
+  "category": "Biography",
+  "language": [
+    "English",
+    "French"
+  ],
+  "pages": 818,
+  "description": "Ron Chernow’s 'Alexander Hamilton' is a sweeping and meticulously researched biography of one of America’s most influential Founding Fathers. The book traces Hamilton’s rise from his humble beginnings in the Caribbean to his pivotal role in shaping the United States. Chernow explores Hamilton’s contributions as a Revolutionary War hero, the first Secretary of the Treasury, and the architect of the nation’s financial system. The biography delves into Hamilton’s complex relationships, his political battles, and his enduring legacy. Chernow presents Hamilton as a brilliant, ambitious, and sometimes controversial figure whose ideas and vision continue to shape American society. The book also inspired the hit Broadway musical, bringing Hamilton’s story to a new generation. With rich detail and engaging narrative, 'Alexander Hamilton' offers readers a comprehensive portrait of a man whose life was marked by both triumph and tragedy, and whose impact on history remains profound.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb16"
+  },
+  "bookId": "B079",
+  "title": "Benjamin Franklin: An American Life",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "language": [
+    "English"
+  ],
+  "pages": 608,
+  "description": "In 'Benjamin Franklin: An American Life,' Walter Isaacson offers a lively and insightful biography of one of America’s most remarkable founding figures. The book explores Franklin’s multifaceted life as a scientist, inventor, diplomat, writer, and statesman. Isaacson traces Franklin’s journey from a young printer’s apprentice to a key architect of American independence and a symbol of Enlightenment values. The biography highlights Franklin’s curiosity, wit, and practical wisdom, as well as his contributions to science, politics, and civic life. Isaacson delves into Franklin’s personal relationships, his experiments with electricity, and his role in drafting the Declaration of Independence and the Constitution. The book presents Franklin as a man of contradictions—both pragmatic and idealistic, self-made and collaborative. With engaging storytelling and thoughtful analysis, 'Benjamin Franklin: An American Life' provides readers with a deeper understanding of a man whose ideas and inventions continue to influence the world.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb17"
+  },
+  "bookId": "B080",
+  "title": "Leonardo da Vinci",
+  "author": "Walter Isaacson",
+  "category": "Biography",
+  "language": [
+    "English",
+    "Spanish"
+  ],
+  "pages": 624,
+  "description": "Walter Isaacson’s 'Leonardo da Vinci' is a captivating biography that brings to life the genius of the Renaissance. Drawing from thousands of pages of Leonardo’s notebooks, Isaacson explores the artist’s insatiable curiosity, inventive mind, and artistic mastery. The book delves into Leonardo’s diverse interests, from anatomy and engineering to painting and sculpture, revealing how his relentless quest for knowledge fueled his creativity. Isaacson examines the creation of masterpieces like the Mona Lisa and The Last Supper, as well as Leonardo’s scientific observations and experiments. The biography also explores Leonardo’s personal life, his relationships, and his unique approach to learning. Isaacson presents Leonardo as a visionary whose ability to connect art and science made him one of history’s most extraordinary figures. With engaging prose and rich detail, this book offers readers a window into the mind of a true polymath and celebrates the enduring legacy of Leonardo da Vinci.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb18"
+  },
+  "bookId": "B081",
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Spanish",
+    "French",
+    "German",
+    "Italian",
+    "Portuguese",
+    "Chinese"
+  ],
+  "pages": 499,
+  "description": "Daniel Kahneman's 'Thinking, Fast and Slow' is a groundbreaking exploration of the human mind and the ways we make decisions. Drawing on decades of research in psychology and behavioral economics, Kahneman introduces readers to two systems of thinking: the fast, intuitive, and emotional system, and the slow, deliberate, and logical system. The book examines how these systems shape our judgments, influence our choices, and lead to cognitive biases. Kahneman explains complex concepts with clarity, using real-world examples and experiments to illustrate how our minds work. The book also explores the implications of these findings for business, policy, and everyday life. 'Thinking, Fast and Slow' challenges readers to question their assumptions and become more aware of the mental shortcuts that can lead to errors. It is an essential read for anyone interested in understanding the psychology of decision-making and the factors that drive human behavior.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 0,
+  "status": "unavailable"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb19"
+  },
+  "bookId": "B082",
+  "title": "Outliers",
+  "author": "Malcolm Gladwell",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 309,
+  "description": "In 'Outliers,' Malcolm Gladwell investigates the factors that contribute to high levels of success. Challenging the traditional notion of the self-made individual, Gladwell argues that success is often the result of a combination of talent, hard work, cultural background, and unique opportunities. The book explores stories of extraordinary achievers, from tech entrepreneurs to professional athletes, and uncovers the hidden patterns that shape their journeys. Gladwell introduces concepts like the '10,000-Hour Rule,' which suggests that mastery in any field requires extensive practice, and examines the impact of upbringing, timing, and community. Through engaging storytelling and insightful analysis, 'Outliers' encourages readers to rethink what it means to be successful and to recognize the importance of context and environment. The book is both thought-provoking and accessible, making it a must-read for anyone interested in personal development, education, and the science of achievement.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb1a"
+  },
+  "bookId": "B083",
+  "title": "The Tipping Point",
+  "author": "Malcolm Gladwell",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 301,
+  "description": "Malcolm Gladwell’s 'The Tipping Point' explores how small actions can trigger significant social change. The book examines the phenomenon of 'tipping points,' moments when ideas, trends, or behaviors spread rapidly and become widespread. Gladwell analyzes real-world examples, from the rise of Hush Puppies shoes to the drop in New York City’s crime rate, to illustrate how social epidemics work. He introduces key concepts such as the Law of the Few, the Stickiness Factor, and the Power of Context, explaining how certain people, messages, and environments can accelerate change. Gladwell’s engaging narrative and accessible style make complex ideas easy to understand. 'The Tipping Point' is a fascinating look at the dynamics of social influence and the factors that drive collective behavior. It is an essential read for anyone interested in marketing, sociology, or the science of how ideas spread.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb1b"
+  },
+  "bookId": "B084",
+  "title": "Blink",
+  "author": "Malcolm Gladwell",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 296,
+  "description": "In 'Blink,' Malcolm Gladwell explores the power of rapid cognition—the ability of our brains to make quick judgments and decisions in the blink of an eye. The book delves into the science behind intuition, examining how snap decisions can be both remarkably accurate and dangerously flawed. Gladwell presents a range of case studies, from art experts identifying forgeries to firefighters sensing danger, to illustrate the strengths and limitations of unconscious thinking. He discusses the role of experience, expertise, and bias in shaping our instincts, and offers insights into when we should trust our gut and when we should be cautious. 'Blink' challenges readers to reconsider the value of first impressions and the hidden processes that guide our choices. With engaging storytelling and thought-provoking analysis, the book is a compelling exploration of the mysteries of the mind and the factors that influence our decisions.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb1c"
+  },
+  "bookId": "B085",
+  "title": "Freakonomics",
+  "author": "Steven Levitt",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 320,
+  "description": "‘Freakonomics,’ by Steven Levitt and Stephen Dubner, is a provocative and entertaining exploration of the hidden side of everyday life. The authors use economic theory to investigate a wide range of topics, from crime rates and school performance to parenting and incentives. Through unconventional questions and surprising data, Levitt and Dubner reveal the underlying forces that shape human behavior. The book challenges conventional wisdom, showing how incentives, information, and unintended consequences drive outcomes in unexpected ways. With wit and clarity, 'Freakonomics' makes complex ideas accessible and engaging, encouraging readers to look beyond surface explanations and question assumptions. The book’s blend of storytelling, analysis, and real-world examples has made it a modern classic in popular economics. It is an essential read for anyone curious about the world and eager to understand the logic behind the seemingly irrational.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb1d"
+  },
+  "bookId": "B086",
+  "title": "The Power of Habit",
+  "author": "Charles Duhigg",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 371,
+  "description": "Charles Duhigg’s 'The Power of Habit' explores the science behind why habits form and how they can be changed. Drawing on research in psychology, neuroscience, and business, Duhigg explains the habit loop—cue, routine, reward—and how understanding this cycle can help individuals and organizations transform their behaviors. The book features compelling stories of people and companies who have harnessed the power of habit to achieve remarkable results, from Olympic athletes to corporate giants. Duhigg offers practical strategies for breaking bad habits and building positive ones, emphasizing the importance of small changes and consistent effort. 'The Power of Habit' is both informative and inspiring, providing readers with the tools to take control of their actions and create lasting change. It is a must-read for anyone interested in personal development, productivity, and the science of behavior.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb1e"
+  },
+  "bookId": "B087",
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 320,
+  "description": "James Clear’s 'Atomic Habits' is a practical and insightful guide to building good habits and breaking bad ones. Clear argues that small, incremental changes—atomic habits—can lead to remarkable results over time. The book outlines a proven framework for habit formation, emphasizing the importance of making habits obvious, attractive, easy, and satisfying. Clear draws on scientific research and real-life examples to illustrate how habits work and how they can be changed. He provides actionable strategies for overcoming obstacles, staying motivated, and creating systems that support long-term success. 'Atomic Habits' is filled with practical tips and clear explanations, making it accessible to readers of all backgrounds. Whether you want to improve your health, productivity, or relationships, this book offers a roadmap for achieving your goals through the power of tiny changes.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb1f"
+  },
+  "bookId": "B088",
+  "title": "The 7 Habits of Highly Effective People",
+  "author": "Stephen Covey",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 372,
+  "description": "Stephen Covey’s 'The 7 Habits of Highly Effective People' is a timeless guide to personal and professional effectiveness. Covey presents a principle-centered approach to achieving lasting success, focusing on character development, integrity, and proactive behavior. The book outlines seven habits that can transform the way individuals approach challenges, relationships, and goals. Covey emphasizes the importance of beginning with the end in mind, prioritizing what matters most, and seeking win-win solutions. Through practical advice, real-life examples, and thought-provoking exercises, Covey helps readers develop the mindset and skills needed to thrive in a complex world. 'The 7 Habits' has inspired millions to take control of their lives, build strong relationships, and achieve meaningful results. It remains a foundational text in the fields of leadership, self-improvement, and organizational development.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1509021436665-8f1d31455748?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb20"
+  },
+  "bookId": "B089",
+  "title": "How to Win Friends and Influence People",
+  "author": "Dale Carnegie",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 288,
+  "description": "Dale Carnegie’s 'How to Win Friends and Influence People' is a classic self-help book that has helped millions of readers improve their communication and interpersonal skills. First published in 1936, the book offers timeless principles for building relationships, gaining trust, and persuading others. Carnegie’s advice is practical and easy to apply, focusing on the importance of genuine interest, active listening, and positive reinforcement. The book is filled with anecdotes and examples that illustrate how small changes in behavior can lead to significant improvements in personal and professional interactions. 'How to Win Friends and Influence People' remains a must-read for anyone seeking to enhance their social skills, build confidence, and achieve success through effective communication.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb21"
+  },
+  "bookId": "B090",
+  "title": "The Lean Startup",
+  "author": "Eric Ries",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 336,
+  "description": "Eric Ries’s 'The Lean Startup' introduces a revolutionary approach to building and managing startups in an age of uncertainty. The book advocates for a scientific method of entrepreneurship, emphasizing rapid experimentation, validated learning, and iterative product development. Ries explains the build-measure-learn feedback loop, which allows entrepreneurs to test ideas quickly, gather customer feedback, and pivot or persevere based on real data. The book is filled with practical advice, case studies, and actionable strategies for reducing waste, increasing efficiency, and maximizing the chances of success. 'The Lean Startup' has become a foundational text for innovators, business leaders, and anyone interested in launching new products or services. It challenges traditional business models and offers a roadmap for creating sustainable, adaptable organizations in a fast-changing world.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb22"
+  },
+  "bookId": "B091",
+  "title": "The Innovator's Dilemma",
+  "author": "Clayton Christensen",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 286,
+  "description": "Disruptive innovation theory.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb23"
+  },
+  "bookId": "B092",
+  "title": "Good to Great",
+  "author": "Jim Collins",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "French"
+  ],
+  "pages": 320,
+  "description": "Why some companies succeed.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb24"
+  },
+  "bookId": "B093",
+  "title": "The 4-Hour Workweek",
+  "author": "Tim Ferriss",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 308,
+  "description": "Escape the 9-5 grind.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb25"
+  },
+  "bookId": "B094",
+  "title": "Zero to One",
+  "author": "Peter Thiel",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Spanish"
+  ],
+  "pages": 224,
+  "description": "Notes on startups.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+  "totalCopies": 4,
+  "availableCopies": 3,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb26"
+  },
+  "bookId": "B095",
+  "title": "The Hard Thing About Hard Things",
+  "author": "Ben Horowitz",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 304,
+  "description": "Building a business.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+  "totalCopies": 8,
+  "availableCopies": 7,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb27"
+  },
+  "bookId": "B096",
+  "title": "Hackers and Painters",
+  "author": "Paul Graham",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Urdu"
+  ],
+  "pages": 272,
+  "description": "Essays on programming and startups.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb28"
+  },
+  "bookId": "B097",
+  "title": "The Design of Everyday Things",
+  "author": "Don Norman",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 368,
+  "description": "Psychology of design.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=600&fit=crop",
+  "totalCopies": 6,
+  "availableCopies": 5,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb29"
+  },
+  "bookId": "B098",
+  "title": "Don't Make Me Think",
+  "author": "Steve Krug",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "Hindi"
+  ],
+  "pages": 216,
+  "description": "Web usability guide.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+  "totalCopies": 7,
+  "availableCopies": 6,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb2a"
+  },
+  "bookId": "B099",
+  "title": "The Elements of Style",
+  "author": "William Strunk Jr.",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 105,
+  "description": "Writing guide.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1541963463539-d64d3ef2c0e2?w=400&h=600&fit=crop",
+  "totalCopies": 9,
+  "availableCopies": 8,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695ab393df4980f4292bfb2b"
+  },
+  "bookId": "B100",
+  "title": "On Writing Well",
+  "author": "William Zinsser",
+  "category": "Non-Fiction",
+  "language": [
+    "English",
+    "German"
+  ],
+  "pages": 321,
+  "description": "Clear and effective writing.",
+  "coverImageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+  "totalCopies": 5,
+  "availableCopies": 4,
+  "status": "available"
+},
+{
+  "_id": {
+    "$oid": "695cd6a9af0a14ef380a8659"
+  },
+  "bookId": "BOOK-1767691945071-GOP4CO",
+  "title": "Autem qui non porro ",
+  "author": "Jackson Conrad",
+  "category": "Non-Fiction",
+  "language": [
+    "English"
+  ],
+  "pages": 50,
+  "description": "Ad ea aute ut sed is",
+  "coverImageUrl": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "totalCopies": 26,
+  "availableCopies": 26,
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-01-06T09:32:25.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T09:32:25.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695cd6e8d25e8f632c6601e2"
+  },
+  "bookId": "BOOK-1767692008629-ATRQ1M",
+  "title": "Adipisci accusantium",
+  "author": "Amos Fleming",
+  "category": "Music",
+  "language": [
+    "English"
+  ],
+  "pages": 1,
+  "description": "Odit tempore sequi ",
+  "coverImageUrl": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "totalCopies": 49,
+  "availableCopies": 49,
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-01-06T09:33:28.634Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T09:33:28.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695cdac0d25e8f632c6601ee"
+  },
+  "bookId": "BOOK-1767692992167-YU2ZAU",
+  "title": "New Books Add ",
+  "author": "New Auth",
+  "category": "Science",
+  "language": [
+    "English"
+  ],
+  "pages": 100,
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+  "coverImageUrl": "https://plus.unsplash.com/premium_photo-1669652639337-c513cc42ead6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "totalCopies": 5,
+  "availableCopies": 2,
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-01-06T09:49:52.168Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T17:22:55.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d52398840bcc162fd2ea6"
+  },
+  "bookId": "BOOK-1767723577014-FK6Y6F",
+  "title": "Mistress Wilding By Rafael Sabatini",
+  "author": "Junkybooks",
+  "category": "Literature",
+  "language": [
+    "English"
+  ],
+  "pages": 30,
+  "description": "Then drink it thus, cried the rash young fool, and splashed the contents of his cup full into the face of Mr. Wilding even as that gentleman, on his feet, was proposing to drink to the eyes of the young fool’s sister. The moments that followed were full of interest. A stillness, a brooding, expectant stillness, fell upon the company - and it numbered a round dozen - about Lord Gervase’s richly appointed board. In the soft candlelight the oval table shone like a deep brown pool, in which were reflected the gleaming silver and sparkling crystal that seemed to float upon it.",
+  "coverImageUrl": "https://www.junkybooks.com/administrator/bookimages/69496235abd8a0.06360405.JPG",
+  "totalCopies": 3,
+  "availableCopies": 2,
+  "status": "available",
+  "createdAt": {
+    "$date": "2026-01-06T18:19:37.024Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T18:34:28.710Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,62 @@
+[
+  {
+    "username": "amina",
+    "email": "amina.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "ayesha",
+    "email": "ayesha.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "zoha",
+    "email": "zoha.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "zubria",
+    "email": "zubria.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "abdullah",
+    "email": "abdullah.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "nasir",
+    "email": "nasir.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "asad",
+    "email": "asad.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "ijaz",
+    "email": "ijaz.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "fatima",
+    "email": "fatima.uchenab@mailinator.com",
+    "password": "Password123",
+    "role": "student"
+  },
+  {
+    "username": "admin",
+    "email": "admin.lms@mailinator.com",
+    "password": "Password123",
+    "role": "admin"
+  }
+]
